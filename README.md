@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do Emanuel-Guimaraes 😁
-
+## Bem-vindo(a) ao perfil do Emanuel-Guimaraes
  <div>
    <a href="https://github.com/Emanuel-Guimaraes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,6 +12,3 @@
 </div>
  
 <br>
- 
-
- 
